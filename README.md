@@ -7,3 +7,5 @@ add fight system
 add buff system
 #ver 1.2
 add skill system
+#ver 1.3
+add ai system
